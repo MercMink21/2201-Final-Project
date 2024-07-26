@@ -32,11 +32,11 @@ Selected: The metrics that I selected were key performance metrics. Those metric
 
 I selected these metrics due to their relevance in evaluating the four NHL MVP candidates and their metrics, primarily in the specific context of the four-man MVP. I decided that metrics like expected and adjusted figures are relevant due to certain players benefiting more than others due to better line pairing and overall better team play.
 
-# Reflection on Visualization:
+# Reflection on Visualization
 
 Following up with cleaned data the visualizations were able to become more clear, however, the analysis could have been more thorough in its deep dive into each player's visualizations before comparing them with others.
 
-Comparative bar charts showing points, primary assists, and secondary assists allowed for surface-level comparison. Visuals such as the shooting chart do a good job of emphasising the quality of offense the MVP candidates contributed to their teams, with high volume of high and medium danger shots and goals, setting them apart from teammates and players across the league. Other possible visuals in the future could be historical data to capture how well the candidates played this season compared to the previous season, this would help reveal if this was a fluke season for the individuals. Another useful visual could be comparing players to their teammates to measure how much ahead of their teammates are that benefit from the same system and style of play. 
+Comparative bar charts showing points, primary assists, and secondary assists allowed for surface-level comparison. Visuals such as the shooting chart do a good job of emphasizing the quality of offense the MVP candidates contributed to their teams, with a high volume of high and medium-danger shots and goals, setting them apart from teammates and players across the league. Other possible visuals in the future could be historical data to capture how well the candidates played this season compared to the previous season, this would help reveal if this was a fluke season for the individuals. Another useful visual could be comparing players to their teammates to measure how much ahead of their teammates are that benefit from the same system and style of play. 
 
 # Storytelling
 
